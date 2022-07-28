@@ -1,4 +1,4 @@
 # pytorch_lstm_cnn_stockprice
 prediction of stockprices for MOEX
 
-1
+2
