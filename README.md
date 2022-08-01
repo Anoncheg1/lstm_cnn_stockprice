@@ -1,7 +1,7 @@
 # pytorch_lstm_cnn_stockprice
 Stock price forecasting for MOEX
 
-Tensorflow project. First Pytorch version was not success.
+Tensorflow project. First Pytorch version was not success in attempt to join CNN and LSTM.
 
 The idea is to use LSTM for time series prediction and CNN for
 recognition of visual patterns of image which see broker on the
