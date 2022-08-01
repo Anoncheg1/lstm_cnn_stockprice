@@ -10,6 +10,10 @@ Savitzky-Golay used to overcame overfitting by controling smoothing of the date.
 
 ![Alt text](https://github.com/Anoncheg1/lstm_cnn_stockprice/blob/main/tfmy/MGNT_150130_200204.csv.jpg)
 
+### files
+augum/da305.py - used data: close, volume, time, open, high, low
+augum/da_cnn_lstm.py - close, volume
+tfmy/cnn_lstm.py - train and predict steps
 
 ### links
 CNN vs. Prophet: Forecasting the Copper Producer Price Index https://towardsdatascience.com/cnn-vs-prophet-forecasting-the-copper-producer-price-index-af4da63bd93d
